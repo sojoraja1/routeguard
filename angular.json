@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RouteGuards"
+    }
+  },
+  "defaultProject": "RouteGuards",
+  "cli": {
+    "analytics": "72595071-f5bc-43c4-b39f-bac0d44b22e9"
+  }
 }
